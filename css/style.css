@@ -1,0 +1,36 @@
+body {
+  background-color:black;
+  color:green;
+  margin-top: 14px;
+}
+
+.tour {
+  width: 25%;
+  float:right;
+  margin-right:26px;
+  line-height:60px;
+  font-family:tahoma;
+  padding:11px;
+
+}
+.header {
+  width: 100%;
+  padding:6px;
+  border-color:orange;
+  border-style:double;
+  border-width:9px;
+}
+
+h1 {
+  font-size:46px;
+}
+
+.left {
+  float:left;
+  width: 70%;
+  background-color:orange;
+}
+
+img.iw {
+  width:65%;
+}
